@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: #008000;
+}
+
+.quem-somos{
+    background-color: aqua;
+    
+}
+
+.quem-somos p {
+    
+    
+}
+
+.margin{
+    padding: 30px  0;
+}
+
+.servicos{
+    background-color: burlywood;
+}
